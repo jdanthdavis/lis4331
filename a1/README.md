@@ -7,24 +7,24 @@
 
 ## Justin Davis
 
-### Assignment # Requirements:
-
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+### Assignment #1 Requirements:
 
 #### README.md file should include the following items:
 
 * Screenshot of running JDK java Hello
 * Screenshot of running Android Studio My First App
 * Screenshots of running Android Studio Contacts App
-*   a. Main screen with 3 buttons, and contact information w/ image for at least 3 contacts.
+    * a. Main screen with 3 buttons, and contact information w/ image for at least 3 contacts.
+    * b. *Must* include background color and design--cannot use "default" activity design.
+    * c. *Be sure* to review Chs. 1 and 2 of the course textbook.
+* Git commands w/ short descriptions
+* Bitbucket repo links:
+    * a. This assignment, and
+    * b. The completed tutorial repo above (bitbucketstationlocations).
 
-> This is a blockquote.
+[comment]: <> (> This is a blockquote.)
 > 
-> This is the second paragraph in the blockquote.
+[comment]: <> (> This is the second paragraph in the blockquote.)
 >
 > #### Git commands w/short descriptions:
 
@@ -40,11 +40,11 @@
 
 *Screenshot of running JDK Java Hello:
 
-![AMPPS Installation Screenshot](img/java_hello_screenshot.png)
+![JDK Java Hello Screenshot](img/java_hello_screenshot.png)
 
 *Screenshot of running Android Studio My First App*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![My First App Screenshot](img/jdk_install.png)
 
 *Screenshot of running Android Studio Contacts App:
 
