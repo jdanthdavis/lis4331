@@ -17,10 +17,10 @@
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of running JDK java Hello
+* Screenshot of running Android Studio My First App
+* Screenshots of running Android Studio Contacts App
+*   a. Main screen with 3 buttons, and contact information w/ image for at least 3 contacts.
 
 > This is a blockquote.
 > 
