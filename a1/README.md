@@ -44,12 +44,9 @@
 
 *Screenshot of running Android Studio My First App*:
 
-Solarized dark             |  Solarized Ocean
+My First App             |  My First App   
 :-------------------------:|:-------------------------:
 ![My First App Screenshot](img/myfirstapp_p1.png)  |  ![My First App Screenshot](img/myfirstapp_p2.png) 
-
-
-[comment]: <> ( ![My First App Screenshot](img/myfirstapp_p1.png) | ![My First App Screenshot](img/myfirstapp_p2.png) 
 
 *Screenshot of running Android Studio Contacts App:
 
