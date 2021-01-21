@@ -50,11 +50,9 @@ My First App Page 1             |  My First App Page 2
 
 *Screenshot of running Android Studio Contacts App:
 
-Screenshot of Contacts App Home             |  Screenshot of Contacts App Contact Page  |   Contacts App
-:-------------------------:|:-------------------------:
-![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)     |   
-![Alt Text](img/Android.gif) 
-
+Screenshot of Contacts App Home             |  Screenshot of Contacts App Contact Page             | Contacts App
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)  | <img src="img/Android.gif" width="300" height="550" />
 
 #### Tutorial Links:
 
