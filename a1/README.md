@@ -44,19 +44,18 @@
 
 *Screenshot of running Android Studio My First App*:
 
-My First App             |  My First App   
+My First App Page 1             |  My First App Page 2
 :-------------------------:|:-------------------------:
 ![My First App Screenshot](img/myfirstapp_p1.png)  |  ![My First App Screenshot](img/myfirstapp_p2.png) 
 
 *Screenshot of running Android Studio Contacts App:
 
-![Android Studio Installation Screenshot](img/android.png)
+Screenshot of Contacts App Home             |  Screenshot of Contacts App Contact Page  |   Contacts App
+:-------------------------:|:-------------------------:
+![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)     |   ![Gif of Contacts App]
 
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
