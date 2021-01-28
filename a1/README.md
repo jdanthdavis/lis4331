@@ -54,12 +54,8 @@ Screenshot of Contacts App Home             |  Screenshot of Contacts App Contac
 :-------------------------:|:-------------------------:|:------------------------------------------------:
 ![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)  | ![gif](img/Android.gif)
 
-
-
-
-<img src="https://bitbucket.org/jd19z/lis4331/src/master/a1/img/Android.gif" width="300" height="550" />
-
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
+?
