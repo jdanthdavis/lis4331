@@ -58,4 +58,3 @@ Screenshot of Contacts App Home             |  Screenshot of Contacts App Contac
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
-?
