@@ -3,58 +3,38 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# Advance Mobile App Development
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
-
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+### Assignment #2 Requirements:
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of running application's unpopulated requirements, as per A1
+* Screenshot of running application's populated user interface
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+[comment]: <> (> This is a blockquote.)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+[comment]: <> (> This is the second paragraph in the blockquote.)
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of running application's unpopulated requirements, as per A1*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+*Screenshot of running application's populated user interface*:
 
-*Screenshot of running java Hello*:
+My First App Page 1             |  My First App Page 2
+:-------------------------:|:-------------------------:
+![My First App Screenshot](img/myfirstapp_p1.png)  |  ![My First App Screenshot](img/myfirstapp_p2.png) 
 
-![JDK Installation Screenshot](img/jdk_install.png)
+*Screenshot of running Android Studio Contacts App:
 
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
+Screenshot of Contacts App Home             |  Screenshot of Contacts App Contact Page             | Contacts App
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)  | ![gif](img/Android.gif)
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
