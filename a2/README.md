@@ -22,17 +22,15 @@
 
 *Screenshot of running application's unpopulated requirements, as per A1*:
 
+![My First App Screenshot](img/p1.png)
+
 *Screenshot of running application's populated user interface*:
 
-My First App Page 1             |  My First App Page 2
-:-------------------------:|:-------------------------:
-![My First App Screenshot](img/myfirstapp_p1.png)  |  ![My First App Screenshot](img/myfirstapp_p2.png) 
+![My First App Screenshot](img/p2.png)
 
-*Screenshot of running Android Studio Contacts App:
+*Tip Calculator App*:
 
-Screenshot of Contacts App Home             |  Screenshot of Contacts App Contact Page             | Contacts App
-:-------------------------:|:-------------------------:|:------------------------------------------------:
-![My First App Screenshot](img/contacts_p1.png)  |  ![My First App Screenshot](img/contacts_p2.png)  | ![gif](img/Android.gif)
+![gif](img/tip.gif)
 
 #### Tutorial Links:
 
