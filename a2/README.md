@@ -32,6 +32,10 @@
 
 ![gif](img/tip.gif)
 
+*Screenshot of running JDK SS1-SS#*:
+
+!
+
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
