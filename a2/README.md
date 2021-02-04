@@ -32,9 +32,11 @@
 
 ![gif](img/tip.gif)
 
-*Screenshot of running JDK SS1-SS#*:
+*Screenshot of running JDK SS1-SS3*:
 
-!
+Screenshot of SS1             |  Screenshot of SS2             | Screenshot of SS3             
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![My First App Screenshot](img/ss1.png)  |  ![My First App Screenshot](img/ss2.png)  | ![gif](img/ss3.png)
 
 #### Tutorial Links:
 
