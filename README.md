@@ -14,7 +14,10 @@
     - Push your local repository to the one hosted by Bitbucket's servers
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - Drop-down menu for total number of guests (including yourself): 1 - 10
+    - Drop-down menu for tip percentage (5% increments): 0 - 25
+    - Must add background color(s) or theme
+    - Must create and display launcher icon image
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
