@@ -20,7 +20,14 @@
     - Must create and display launcher icon image
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Field to enter U.S. dollar amount: 1 - 100,000
+    - Must include toast notification if user enters out-of-range values
+    - Radio buttons to convert from U.S. to Euros, Pesos, and Canadian currency
+    - Must include correct sign for euros, pesos, and Canadian dollars
+    - Must include correct sign for euros, pesos, and Canadian dollars
+    - Must add background color(s) or theme
+    - Create and display launcher icon image
+    - Create Splash/Loading Screen
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD

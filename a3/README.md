@@ -3,58 +3,44 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# Advance Mobile App Development
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
-
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+### Assignment #3 Requirements:
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of running application's splash screen;
+* Screenshot of running application's unpopulated user interface;
+* Screenshot of running application's toast notification;
+* Screenshot of running application's converted currency user interface;
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+[comment]: <> (> This is a blockquote.)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+[comment]: <> (> This is the second paragraph in the blockquote.)
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of running application's unpopulated requirements, as per A1*:
 
-![AMPPS Installation Screenshot](img/ampps.png)
+Splash Screen             |  Converting Screen                 
+:-------------------------:|:-------------------------:|
+![My First App Screenshot](img/splash.png)  |  ![My First App Screenshot](img/p2.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of running application's unpopulated requirements, as per A1*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+Toast Error             |  Gif of Currency Converter                 
+:-------------------------:|:-------------------------:|
+![My First App Screenshot](img/splash.png)  |  ![My First App Screenshot](img/p2.png)
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of running JDK SS4-SS6*:
 
-![Android Studio Installation Screenshot](img/android.png)
-
+Screenshot of SS4             |  Screenshot of SS5             | Screenshot of SS6             
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![My First App Screenshot](img/ss1.png)  |  ![My First App Screenshot](img/ss2.png)  | ![gif](img/ss3.png)
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
