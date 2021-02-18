@@ -34,7 +34,7 @@ Toast Error             |  Gif of Currency Converter
 
 Screenshot of SS4             |  Screenshot of SS5             | Screenshot of SS6             
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![My First App Screenshot](img/ss1.png)  |  ![My First App Screenshot](img/ss2.png)  | ![gif](img/ss3.png)
+![My First App Screenshot](img/s.png)  |  ![My First App Screenshot](img/ss2.png)  | ![gif](img/ss3.png)
 
 #### Tutorial Links:
 
