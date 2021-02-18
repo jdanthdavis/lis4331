@@ -22,17 +22,13 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of running application's unpopulated requirements, as per A1*:
-
 Splash Screen             |  Converting Screen                 
 :-------------------------:|:-------------------------:|
 ![My First App Screenshot](img/splash.png)  |  ![My First App Screenshot](img/p2.png)
 
-*Screenshot of running application's unpopulated requirements, as per A1*:
-
 Toast Error             |  Gif of Currency Converter                 
 :-------------------------:|:-------------------------:|
-![My First App Screenshot](img/splash.png)  |  ![My First App Screenshot](img/p2.png)
+![My First App Screenshot](img/toast.png)  |  ![My First App Screenshot](img/convt.gif)
 
 *Screenshot of running JDK SS4-SS6*:
 
