@@ -24,6 +24,12 @@
 * *Screenshot* of running application's follow-up screen.
 * *Screenshot* of running application's play and pause user interfaces.
 
+#### Assignment Code:
+
+[MainActivity.java](docs/MainActivity.java)
+
+[SplashActivity.java](docs/SplashActivity.java)
+
 #### Assignment Screenshots:
 
 Gif of Application             |  Screenshot of Splash Page
