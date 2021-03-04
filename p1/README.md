@@ -30,13 +30,17 @@
 
 [SplashActivity.java](docs/SplashActivity.java)
 
+[activity_main.xml](docs/activity_main.xml)
+
+[activity_splash.xml](docs/activity_splash.xml)
+
 #### Assignment Screenshots:
 
 Gif of Application             |  Screenshot of Splash Page
 :-------------------------:|:-------------------------:|
 ![Gif of Music App](img/music.gif)  |  ![Music App Splash Screen](img/splash.png) |
 
-Screenshot of Main Page            |  Screenshot of Playing Music        
+Screenshot of Main Page            |  Screenshot of Playing Music  
 :-------------------------:|:-------------------------:|
 ![Music App Opening Page](img/main.png)  |  ![Playing Music](img/play.png)  |
 
