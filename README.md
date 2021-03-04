@@ -36,7 +36,11 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Splash screen image, app title, intro text.
+    - Include artists' images and media.
+    - Images and buttons must be vertically and horizontally aligned.
+    - Must add background color(s) or theme.
+    - Create and display launcher icon image.
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

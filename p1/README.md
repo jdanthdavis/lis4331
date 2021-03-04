@@ -3,58 +3,38 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 Advance Mobile App Development
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
+### Project 1 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Splash screen image, app title, intro text.
+2. Include artists' images and media.
+3. Images and buttons must be vertically and horizontally aligned.
+4. Must add background color(s) or theme.
+5. Create and display launcher icon image.
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+* Course title, your name, assignment requirements, as per A1.
+* *Screenshot* of running application's splash screen.
+* *Screenshot* of running application's follow-up screen.
+* *Screenshot* of running application's play and pause user interfaces.
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+Gif of Application             |  Screenshot of Splash Page
+:-------------------------:|:-------------------------:|
+![Gif of Music App](img/music.gif)  |  ![Music App Splash Screen](img/splash.png) |
 
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
-
+Screenshot of Main Page            |  Screenshot of Playing Music        
+:-------------------------:|:-------------------------:|
+![Music App Opening Page](img/main.png)  |  ![Playing Music](img/play.png)  |
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
