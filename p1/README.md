@@ -50,7 +50,8 @@ Screenshot of Main Page            |  Screenshot of Playing Music
 
 [SS8](docs/DistanceCalculator.java)
 
-[SS9](docs/activity_main.xml)
+[SS9 Part 1](docs/MultipleSelectionFrame.java)
+[SS9 Part 2](docs/MultipleSelectionListDemo.java)
 
 *Screenshot of running JDK SS7-SS9*:
 
