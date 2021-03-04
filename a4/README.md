@@ -22,14 +22,6 @@
 * 
 * 
 
-#### Skill Sets Code:
-
-[SS7](docs/MeasurementConversion.java)
-
-[SS8](docs/DistanceCalculator.java)
-
-[SS9](docs/activity_main.xml)
-
 #### Assignment Screenshots:
 
 *Screenshot of AMPPS running http://localhost*:

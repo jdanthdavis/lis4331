@@ -44,6 +44,20 @@ Screenshot of Main Page            |  Screenshot of Playing Music
 :-------------------------:|:-------------------------:|
 ![Music App Opening Page](img/main.png)  |  ![Playing Music](img/play.png)  |
 
+#### Skill Sets Code:
+
+[SS7](docs/MeasurementConversion.java)
+
+[SS8](docs/DistanceCalculator.java)
+
+[SS9](docs/activity_main.xml)
+
+*Screenshot of running JDK SS7-SS9*:
+
+Screenshot of SS7             |  Screenshot of SS8             | Screenshot of SS9             
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![SS7 Screenshot](img/ss7.png)  |  ![SS8 Screenshot](img/ss8.gif)  | ![SS9 Screenshot](img/ss9.png)
+
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
