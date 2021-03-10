@@ -11,16 +11,18 @@
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Include splash screen image (or, create your own), app title, intro text.
+2. Include appropriate images.
+3. Must use persistent datA: SharedPreferences.
+4. Widgets and images must be vertically and horizontally alinged.
+5. Must add background color(s) or theme.
+6. Create and display launcher iron image.
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* *Screenshot* of running application's splash screen.
+* *Screenshot* of running application's invalid screen (with appropriate image).
+* *Screenshots* of running application's valid screen (with appropriate image).
 
 #### Assignment Screenshots:
 
@@ -38,9 +40,9 @@
 
 *Screenshot of running JDK SS7-SS9*:
 
-Screenshot of SS7             |  Screenshot of SS8             | Screenshot of SS9             
+Screenshot of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS7 Screenshot](img/ss7.png)  |  ![SS8 Screenshot](img/ss8.png)  | ![SS9 Screenshot](img/ss9.png)
+![SS7 Screenshot](img/ss10.png)  |  ![SS8 Screenshot](img/ss11.png)  | ![SS9 Screenshot](img/ss12.png)
 
 #### Tutorial Links:
 
