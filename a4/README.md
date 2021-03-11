@@ -58,7 +58,7 @@ Screenshot of Splash Page             |  Screenshot of Main Page           | Scr
 
 [SS12](docs)
 
-*Screenshot of running JDK SS7-SS9*:
+*Screenshot of running JDK SS10-SS12*:
 
 Gif of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
