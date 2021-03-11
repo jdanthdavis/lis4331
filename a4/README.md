@@ -52,7 +52,7 @@ Screenshot of Splash Page             |  Screenshot of Main Page           | Scr
 
 #### Skill Sets Code:
 
-[SS10](docs)
+[SS10](docs/TravelTime.java)
 
 [SS11](docs)
 
@@ -60,9 +60,9 @@ Screenshot of Splash Page             |  Screenshot of Main Page           | Scr
 
 *Screenshot of running JDK SS7-SS9*:
 
-Screenshot of SS10             |  Screenshot of SS11             | Screenshot of SS12          
+Gif of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Screenshot](img/ss10.png)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.png)
+![SS10 Gif](img/ss10.gif)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.png)
 
 #### Tutorial Links:
 
