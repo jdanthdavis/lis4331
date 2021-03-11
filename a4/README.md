@@ -24,6 +24,24 @@
 * *Screenshot* of running application's invalid screen (with appropriate image).
 * *Screenshots* of running application's valid screen (with appropriate image).
 
+#### Assignment Code:
+
+[MainActivity.java](docs/MainActivity.java)
+
+[SplashActivity.java](docs/SplashActivity.java)
+
+[Socials.java](docs/Socials.java)
+
+[Payment.java](docs/Payments.java))
+
+[activity_main.xml](docs/activity_main.xml)
+
+[activity_splash.xml](docs/activity_splash.xml)
+
+[activity_socials.xml](docs/activity_socials.xml)
+
+[activity_payments.xml](docs/activity_payments.xml)
+
 #### Assignment Screenshots:
 
 ![Gif of Application](img/app.gif)
@@ -31,6 +49,14 @@
 Screenshot of Splash Page             |  Screenshot of Main Page           | Screenshot of Social Page         
 :-------------------------:|:-------------------------:|:------------------------------------------------:
 ![Splash Page Screenshot](img/splash.png)  |  ![Main Page Screenshot](img/main.png)  | ![Social Page  Screenshot](img/social.png)
+
+#### Skill Sets Code:
+
+[SS10](docs)
+
+[SS11](docs)
+
+[SS12](docs)
 
 *Screenshot of running JDK SS7-SS9*:
 
