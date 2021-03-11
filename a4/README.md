@@ -62,7 +62,7 @@ Screenshot of Splash Page             |  Screenshot of Main Page           | Scr
 
 Gif of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss10.gif)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.png)
+![SS10 Gif](img/ss10.gif)  |  ![SS11 Screenshot](img/ss10.gif)  | ![SS12 Screenshot](img/ss10.gif)
 
 #### Tutorial Links:
 
