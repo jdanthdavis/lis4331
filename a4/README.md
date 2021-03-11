@@ -26,7 +26,7 @@
 
 #### Assignment Screenshots:
 
-![JDK Java Hello Screenshot](img/java_hello_screenshot.png)
+![Gif of Application](img/app.gif)
 
 Screenshot of Splash Page             |  Screenshot of Main Page           | Screenshot of Social Page         
 :-------------------------:|:-------------------------:|:------------------------------------------------:
