@@ -42,7 +42,7 @@
 
 Screenshot of SS10             |  Screenshot of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS7 Screenshot](img/ss10.png)  |  ![SS8 Screenshot](img/ss11.png)  | ![SS9 Screenshot](img/ss12.png)
+![SS10 Screenshot](img/ss10.png)  |  ![SS11 Screenshot](img/ss11.png)  | ![SS12 Screenshot](img/ss12.png)
 
 #### Tutorial Links:
 
