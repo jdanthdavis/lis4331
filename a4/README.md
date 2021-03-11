@@ -32,7 +32,7 @@
 
 [Socials.java](docs/Socials.java)
 
-[Payment.java](docs/Payments.java))
+[Payment.java](docs/Payments.java)
 
 [activity_main.xml](docs/activity_main.xml)
 
