@@ -26,17 +26,11 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+![JDK Java Hello Screenshot](img/java_hello_screenshot.png)
 
-![AMPPS Installation Screenshot](img/ampps.png)
-
-*Screenshot of running java Hello*:
-
-![JDK Installation Screenshot](img/jdk_install.png)
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png)
+Screenshot of Splash Page             |  Screenshot of Main Page           | Screenshot of Social Page         
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![Splash Page Screenshot](img/splash.png)  |  ![Main Page Screenshot](img/main.png)  | ![Social Page  Screenshot](img/social.png)
 
 *Screenshot of running JDK SS7-SS9*:
 
