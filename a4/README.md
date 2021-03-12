@@ -54,15 +54,17 @@ Screenshot of Splash Page             |  Screenshot of Main Page           | Scr
 
 [SS10](docs/TravelTime.java)
 
-[SS11](docs)
+[SS11 Part 1](docs/productDemo.java)
+
+[SS11 Part 2](docs/Product.java)
 
 [SS12](docs)
 
 *Screenshot of running JDK SS10-SS12*:
 
-Gif of SS10             |  Screenshot of SS11             | Screenshot of SS12          
+Gif of SS10             |  Gif of SS11             | Screenshot of SS12          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss10.gif)  |  ![SS11 Screenshot](img/ss10.gif)  | ![SS12 Screenshot](img/ss10.gif)
+![SS10 Gif](img/ss10.gif)  |  ![SS11 Gif](img/ss11.gif)  | ![SS12 Screenshot](img/ss10.gif)
 
 #### Tutorial Links:
 
