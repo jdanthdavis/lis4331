@@ -32,20 +32,24 @@
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - Include splash screen image (or, create your own), app title, intro text
     - Include appropriate images
-    - Must use persistent datA: SharedPreferences
+    - Must use persistent data: SharedPreferences
     - Widgets and images must be vertically and horizontally alinged
     - Must add background color(s) or theme
     - Create and display launcher iron image
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Splash screen
+    - Main screen with app title and list of articles
+    - Must find and use *your own* RSS feed
+    - Must add background color(s) or  theme
+    - Create and display launcher icon image
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - Splash screen image, app title, intro text.
-    - Include artists' images and media.
-    - Images and buttons must be vertically and horizontally aligned.
-    - Must add background color(s) or theme.
-    - Create and display launcher icon image.
+    - Splash screen image, app title, intro text
+    - Include artists' images and media
+    - Images and buttons must be vertically and horizontally aligned
+    - Must add background color(s) or theme
+    - Create and display launcher icon image
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD

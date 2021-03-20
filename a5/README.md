@@ -3,58 +3,67 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# Course Title
+# LIS4331 Advance Mobile App Development
 
-## Your Name
+## Justin Davis
 
-### Assignment # Requirements:
+### Assignment #5 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Include splash screen (optional)
+2. Main screen with app title and list of articles
+3. Must find and use *your own* RSS feed
+4. Must add background color(s) or theme
+5. Create and display launcher icon image
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* *Screenshot* of running application's *main screen* (list of articles - activity_items.xml)
+* *Screenshot* of running application's *individual article* (activity_item.xml)
+* *Screenshot* of running application's *default browser* (article link)
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+#### Assignment Code:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+[MainActivity.java](docs/MainActivity.java)
+
+[SplashActivity.java](docs/SplashActivity.java)
+
+[Socials.java](docs/Socials.java)
+
+[Payment.java](docs/Payments.java)
+
+[activity_main.xml](docs/activity_main.xml)
+
+[activity_splash.xml](docs/activity_splash.xml)
+
+[activity_socials.xml](docs/activity_socials.xml)
+
+[activity_payments.xml](docs/activity_payments.xml)
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+![Gif of Application](img/app.gif)
 
-![AMPPS Installation Screenshot](img/ampps.png)
+Screenshot of Splash Page             |  Screenshot of Main Page           | Screenshot of Social Page         
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![Splash Page Screenshot](img/splash.png)  |  ![Main Page Screenshot](img/main.png)  | ![Social Page  Screenshot](img/social.png)
 
-*Screenshot of running java Hello*:
+#### Skill Sets Code:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+[SS13](docs/TravelTime.java)
 
-*Screenshot of Android Studio - My First App*:
+[SS14](docs/productDemo.java)
 
-![Android Studio Installation Screenshot](img/android.png)
+[SS15](docs/Product.java)
 
+*Screenshot of running JDK SS13-SS15*:
+
+Gif of SS13             |  Gif of SS14             | Screenshot of SS15          
+:-------------------------:|:-------------------------:|:------------------------------------------------:
+![SS10 Gif](img/ss10.gif)  |  ![SS11 Gif](img/ss11.gif)  | ![SS12 Screenshot](img/ss10.gif)
 
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jd19z/bitbucketstationlocations/ "Bitbucket Station Locations")
