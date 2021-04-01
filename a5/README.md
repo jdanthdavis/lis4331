@@ -41,13 +41,13 @@ Screenshot of Main Page             |  Screenshot of Individual Page       | Scr
 
 [SS14](docs/simpleInterest.java)
 
-[SS15](docs/Product.java)
+[SS15](docs/ArrayDemo.java)
 
 *Screenshot of running JDK SS13-SS15*:
 
 Gif of SS13             |  Gif of SS14             | Screenshot of SS15          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss13.gif)  |  ![SS14 Gif](img/ss14.gif)  | ![SS12 Screenshot](img/ss10.gif)
+![SS10 Gif](img/ss13.gif)  |  ![SS14 Gif](img/ss14.gif)  | ![SS12 Screenshot](img/ss15.png)
 
 #### Tutorial Links:
 
