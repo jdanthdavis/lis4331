@@ -37,9 +37,9 @@ Screenshot of Main Page             |  Screenshot of Individual Page       | Scr
 
 #### Skill Sets Code:
 
-[SS13](docs/TravelTime.java)
+[SS13](docs/FileWriteRead.java)
 
-[SS14](docs/productDemo.java)
+[SS14](docs/simpleInterest.java)
 
 [SS15](docs/Product.java)
 
@@ -47,7 +47,7 @@ Screenshot of Main Page             |  Screenshot of Individual Page       | Scr
 
 Gif of SS13             |  Gif of SS14             | Screenshot of SS15          
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![SS10 Gif](img/ss10.gif)  |  ![SS11 Gif](img/ss11.gif)  | ![SS12 Screenshot](img/ss10.gif)
+![SS10 Gif](img/ss13.gif)  |  ![SS14 Gif](img/ss14.gif)  | ![SS12 Screenshot](img/ss10.gif)
 
 #### Tutorial Links:
 
