@@ -23,31 +23,17 @@
 * *Screenshot* of running application's *individual article* (activity_item.xml)
 * *Screenshot* of running application's *default browser* (article link)
 
-#### Assignment Code:
-
-[MainActivity.java](docs/MainActivity.java)
-
-[SplashActivity.java](docs/SplashActivity.java)
-
-[Socials.java](docs/Socials.java)
-
-[Payment.java](docs/Payments.java)
-
-[activity_main.xml](docs/activity_main.xml)
-
-[activity_splash.xml](docs/activity_splash.xml)
-
-[activity_socials.xml](docs/activity_socials.xml)
-
-[activity_payments.xml](docs/activity_payments.xml)
-
 #### Assignment Screenshots:
 
 ![Gif of Application](img/app.gif)
 
-Screenshot of Splash Page             |  Screenshot of Main Page           | Screenshot of Social Page         
+Screenshot of Splash Page             |  Screenshot of Social Page         
+:-------------------------:|:-------------------------:|
+![Splash Page Screenshot](img/splash.png)  |   ![Social Page Screenshot](img/social.png)
+
+Screenshot of Main Page             |  Screenshot of Individual Page       | Screenshot of Article Link 
 :-------------------------:|:-------------------------:|:------------------------------------------------:
-![Splash Page Screenshot](img/splash.png)  |  ![Main Page Screenshot](img/main.png)  | ![Social Page  Screenshot](img/social.png)
+![Splash Main Screenshot](img/main.png)  |   ![Individual Page Screenshot](img/single.png)| ![Article Page Screenshot](img/article.png)
 
 #### Skill Sets Code:
 
