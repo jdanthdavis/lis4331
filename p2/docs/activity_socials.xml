@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Socials">
+
+
+    <TextView
+        android:id="@+id/txtSocial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtSocialTitle"
+        android:layout_marginTop="30dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#5B6E79"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/imgBit"
+        android:layout_width="135dp"
+        android:layout_height="121dp"
+        android:layout_marginTop="8dp"
+        android:adjustViewBounds="true"
+        android:maxWidth="150dp"
+        android:maxHeight="150dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtSocial"
+        app:srcCompat="@drawable/bitbucket" />
+
+    <TextView
+        android:id="@+id/txtBitBucket"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtBitBucket"
+        android:layout_marginTop="2dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgBit"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#000000" />
+
+    <ImageView
+        android:id="@+id/imgLink"
+        android:layout_width="135dp"
+        android:layout_height="121dp"
+        android:layout_marginTop="8dp"
+        android:adjustViewBounds="true"
+        android:maxWidth="150dp"
+        android:maxHeight="150dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtBitBucket"
+        app:srcCompat="@drawable/linkedlogo" />
+
+    <TextView
+        android:id="@+id/txtLinked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtLinked"
+        android:layout_marginTop="2dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgLink"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/btnReturn"
+        android:layout_width="338dp"
+        android:layout_height="77dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Return To Admin Users"
+        android:textColor="#5B6E79"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLinked" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

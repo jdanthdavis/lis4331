@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingTop="5dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtAdmin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admin Users"
+        android:layout_marginTop="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/black" />
+
+    <TextView
+        android:id="@+id/txtAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:text="Add:"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        app:layout_constraintTop_toBottomOf="@+id/txtAdmin" />
+
+    <TextView
+        android:id="@+id/txtUserName"
+        android:text="UserName:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtAdd"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textStyle="normal"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtUserName"
+        app:layout_constraintStart_toEndOf="@+id/txtUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:textSize="14sp"
+        android:textAllCaps="false"
+        android:hint="Enter UserName" />
+
+    <TextView
+        android:id="@+id/txtPassword"
+        android:text="Password:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/userName"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textStyle="normal"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtPassword"
+        app:layout_constraintStart_toEndOf="@+id/txtPassword"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:textSize="14sp"
+        android:hint="Enter Password" />
+
+    <TextView
+        android:id="@+id/txtUpdate"
+        android:text="Update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/password"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/txtUpdateUserName"
+        android:text="UserName:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtUpdate"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textStyle="normal"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/UpdateUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtUpdateUserName"
+        app:layout_constraintStart_toEndOf="@+id/txtUpdateUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        android:hint="Current Username" />
+
+    <TextView
+        android:id="@+id/txtNewUserName"
+        android:text="New:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtUpdateUserName"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textStyle="normal"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/newUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtNewUserName"
+        app:layout_constraintStart_toEndOf="@+id/txtNewUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:textStyle="normal"
+        android:ems="10"
+        android:textSize="14sp"
+        android:hint="New Username" />
+
+    <TextView
+        android:id="@+id/txtDelete"
+        android:text="Delete:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtNewUserName"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/txtDeleteUserName"
+        android:text="UserName:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtDelete"
+        app:layout_constraintEnd_toEndOf="@+id/txtUserName"
+        android:textStyle="normal"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/deleteUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtDeleteUserName"
+        app:layout_constraintStart_toEndOf="@+id/txtDeleteUserName"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:textSize="14sp"
+        android:textStyle="normal"
+        android:freezesText="false"
+        android:hint="User to Delete" />
+
+    <Button
+        android:id="@+id/btnViewData"
+        android:text="View"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_weight="1"
+        android:textSize="10sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/black"
+        android:onClick="view" />
+
+    <Button
+        android:id="@+id/btnAddUser"
+        android:text="Add"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        app:layout_constraintStart_toEndOf="@+id/btnViewData"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_weight="1"
+        android:textSize="10sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/black"
+        android:onClick="add" />
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_marginBottom="8dp"
+        android:onClick="update"
+        android:text="Update"
+        android:textSize="10sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_weight="1"
+        app:layout_constraintStart_toEndOf="@+id/btnAddUser" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:text="Delete"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        app:layout_constraintStart_toEndOf="@+id/btnUpdate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_weight="1"
+        android:textSize="10sp"
+        android:textColor="@color/black"
+        android:textStyle="bold|italic"
+        android:onClick="delete" />
+</androidx.constraintlayout.widget.ConstraintLayout>
