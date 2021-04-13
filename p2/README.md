@@ -12,8 +12,8 @@
 *Sub-Heading:*
 
 1. Splash screen image, app title, intro text.
-2. Include artists' images and media.
-3. Images and buttons must be vertically and horizontally aligned.
+2. Must use persistent data: SQLite database.
+3. Insert at least five users.
 4. Must add background color(s) or theme.
 5. Create and display launcher icon image.
 
@@ -21,8 +21,8 @@
 
 * Course title, your name, assignment requirements, as per A1.
 * *Screenshot* of running application's splash screen.
-* *Screenshot* of running application's follow-up screen.
-* *Screenshot* of running application's play and pause user interfaces.
+* *Screenshot* of running application's Main screen.
+* *Screenshot* of running application's add, update, and delete functions.
 
 #### Assignment Code:
 
@@ -44,13 +44,15 @@
 
 #### Assignment Screenshots:
 
-Gif of Application |
-:-------------------------:|
-![Gif of Music App](img/app.gif)
+![Gif of Application](img/app.gif)
 
 Screenshot of Splash Page            |  Screenshot of Social Page | Screenshot of Main Page
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![Splash](img/splash.png)  |  ![Socials](img/socials.png)  |  ![Main](img/main.png)
+
+Screenshot of Added User            |  Screenshot of Updated User | Screenshot of Deleted User
+:-------------------------:|:-------------------------:|:-------------------------:|
+![Added](img/added.png)  |  ![Updated](img/updated.png)  |  ![Deleted](img/deleted.png)
 
 #### Tutorial Links:
 
