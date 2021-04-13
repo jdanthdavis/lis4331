@@ -52,4 +52,8 @@
     - Create and display launcher icon image
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
+    - Splash screen image, app title, intro text
+    - Must use persistent data: SQLite database
+    - Insert at least five users
+    - Msut add background color(s) or theme
+    - Create and display launcher icon image
