@@ -1,4 +1,4 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
+
 
 # LIS4331 Advanced Mobile Applications Development
 
